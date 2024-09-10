@@ -23,7 +23,7 @@ Used their ([Mitre-enguinity](https://mitre-engenuity.org/cybersecurity/center-f
 
 This Purdue Model Framework variant is an OT network communication view between the different Purdue-levels and asset types. Its goal is to provide a high level overview of the current asset types, subnets and protocols being present. To achieve this, it's best to go over the logs of scanners (passive or active), NGFW-logs or if you really feel like going nitty gritty: a tcpdump from a TAP-port on a central switch.
 
-I prepared a separate tab with asset types which you can add to your Model (like some of those in the example below)
+I prepared a separate tab with asset types which you can add to your Model (like some of those in the example below) and some extra explanation on how the dataflows and this speciic version of the Purdue-model could be used.
 
 
 
