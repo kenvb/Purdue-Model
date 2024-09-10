@@ -20,4 +20,6 @@ This Purdue Model Framework is more seen from the OT network communication view 
 
 ![image](purdue-model-network-Purdue-Model.drawio.png)
 
+This example is to show you how the network diagram could look like.
+
 ![image](purdue-model-network-Example.drawio.png)
