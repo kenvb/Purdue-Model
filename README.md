@@ -10,7 +10,7 @@ If you hoped I was good at picking colours or making really shiny diagrams. Hah!
 ## Mitre-enguinity
 purdue-diagram.drawio
 
-Used their model as an inspiration, tried to use as many generic icons as possible so you can switch around their colors.
+Used their (Mitre-enguinity) model as an inspiration, tried to use as many generic icons as possible so you can switch around their colors.
 
 For those who are not familiar with working with draw.io: working with layers can be a pain in the butt. Make sure you keep layers you aren't using locked as much as possible to avoid dragging shapes to different layers as it really... REALLY happens more than you want it to happen. Also, grouping of items on different layers apparently isn't possible like in Visio.
 
