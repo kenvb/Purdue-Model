@@ -20,9 +20,15 @@ Used their ([Mitre-enguinity](https://mitre-engenuity.org/cybersecurity/center-f
 
 ## OT (network) infrastructure mapped to the Purdue Model
 
+This Purdue Model Framework is more seen from the OT network communication view between the different levels and asset types. Its goal is to provide a high level overview of the current asset types, subnets and protocols being present. To achieve this, it's best to go over the logs of scanners (passive or active), NGFW-logs or if you really feel like going nitty gritty: a tcpdump from a TAP-port on a central switch.
+
+I prepared a separate tab with asset types which you can add to your Model (like some of those in the example below)
+
 [purdue-model-network.drawio](purdue-model-network.drawio)
 
-This Purdue Model Framework is more seen from the OT network communication view between the different levels and asset types. Its goal is to provide a high level overview of the current asset types, subnets and protocols being present. To achieve this, it's best to go over the logs of scanners (passive or active), NGFW-logs or if you really feel like going nitty gritty: a tcpdump from a TAP-port on a central switch.
+
+
+### Example
 
 ![image](purdue-model-network-Purdue-Model.drawio.png)
 
