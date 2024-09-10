@@ -13,3 +13,9 @@ Used their model as an inspiration, tried to use as many generic icons as possib
 For those who are not familiar with working with draw.io: working with layers can be a pain in the butt. Make sure you keep layers you aren't using locked as much as possible to avoid dragging shapes to different layers as it really... REALLY happens more than you want it to happen. Also, grouping of items on different layers apparently isn't possible like in Visio.
 
 ![image](purdue-diagram.png)
+
+## OT (network) infrastructure mapped to the Purdue Model
+
+![image](purdue-model-network-Purdue-Model.drawio.png)
+
+![image](purdue-model-network-Example.drawio.png.png)
