@@ -34,3 +34,4 @@ I prepared a separate tab with asset types which you can add to your Model (like
 This example is to show you what the network diagram could look like. Go crazy and let me know if you come up with different ideas!
 
 ![image](purdue-model-network-Example.drawio.png)
+
