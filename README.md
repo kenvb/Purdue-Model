@@ -14,7 +14,7 @@ If you hoped I was good at picking colours or making really shiny diagrams. Hah!
 ## Mitre-enguinity
 [purdue-diagram.drawio](purdue-diagram.drawio)
 
-Used their (Mitre-enguinity) model as an inspiration, tried to use as many generic icons as possible so you can switch around their colors.
+Used their ([Mitre-enguinity](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/defending-ot-with-attack/)) model as an inspiration, tried to use as many generic icons as possible so you can switch around their colors.
 
 ![image](purdue-diagram.png)
 
