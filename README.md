@@ -7,6 +7,10 @@ I somehow noticed there aren't even any basic purdue model templates to be found
 
 If you hoped I was good at picking colours or making really shiny diagrams. Hah! Your loss!
 
+## Draw.io tips
+[To be found here](draw.io.md)
+
+
 ## Mitre-enguinity
 purdue-diagram.drawio
 
