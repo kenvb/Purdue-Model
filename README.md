@@ -16,6 +16,8 @@ For those who are not familiar with working with draw.io: working with layers ca
 
 ## OT (network) infrastructure mapped to the Purdue Model
 
+This Purdue Model Framework is more seen from the OT network communication view between the different levels and asset types. Its goal is to provide a high level overview of the current asset types, subnets and protocols being present. To achieve this, it's best to go over the logs of scanners (passive or active), NGFW-logs or if you really feel like going nitty gritty: a tcpdump from a TAP-port on a central switch.
+
 ![image](purdue-model-network-Purdue-Model.drawio.png)
 
-![image](purdue-model-network-Example.drawio.png.png)
+![image](purdue-model-network-Example.drawio.png)
