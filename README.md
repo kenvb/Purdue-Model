@@ -1,4 +1,4 @@
-# Purdue-Model
+# Purdue Model Framework
 
 A collection of Purdue model templates, depending on the need.
 
